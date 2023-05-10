@@ -1,0 +1,22 @@
+{
+  "name": "tugas1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/RianataAstama/tugas1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RianataAstama/tugas1/issues"
+  },
+  "homepage": "https://github.com/RianataAstama/tugas1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
