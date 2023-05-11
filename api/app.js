@@ -10,6 +10,11 @@ app.get('/', (req, res) => {
   res.status(500).send('eror 1')
 })
 
+app.get('/api', (req, res) => {
+  res.status(500).send('eror 2')
+})
+
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
